@@ -24,7 +24,7 @@
 ## Ejecución en Local
 
 ```bash
-$ git clone https://github.comXXXXXXXXXXXXXXXX
+$ git clone https://github.com/miltonAlan/portafolioPersonalMPaucar.git
 $ cd mpaucarprakash.github.io
 $ npm install
 $ ng serve
